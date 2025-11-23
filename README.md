@@ -60,4 +60,5 @@ Use exit commands (bye, exit, quit) to end the chat and verify the conversation 
 Verify that chat logs persist by restarting the program with the same username.
 
 #screenshots
+
 <img width="833" height="605" alt="image" src="https://github.com/user-attachments/assets/37e9aaf6-e5b6-4f07-8c50-00519a291051" />
