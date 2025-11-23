@@ -1,11 +1,11 @@
 # project-vityarthi
 Python Chatbot
 
-#Overview of the Project
+>Overview of the Project
 
 This project is a simple and modular Python chatbot application that allows users to interact through a command-line interface. It supports user login, keyword-based response generation, persistent chat history stored per user, and displays full conversation logs at the end of each chat session. The design is prepared for future enhancements such as NLP or machine learning integration.
 
-#Features
+>Features
 
 User authentication and session management
 
@@ -19,7 +19,7 @@ Display of conversation logs after chat session ends
 
 Modular design for easy maintenance and extensibility
 
-#Technologies/Tools Used
+>Technologies/Tools Used
 
 Python 3.6+
 
@@ -27,7 +27,7 @@ JSON for persistent data storage
 
 Standard Python libraries: json, os, datetime
 
-#Steps to Install & Run the Project
+>Steps to Install & Run the Project
 
 Ensure Python 3.6 or higher is installed on your machine.
 
@@ -47,7 +47,7 @@ Type bye, exit, or quit to end the session.
 
 View your chat log displayed on the screen.
 
-#Instructions for Testing
+>Instructions for Testing
 
 Test the chatbot by typing greetings like "hello" or "hi" and see the appropriate response.
 
@@ -59,6 +59,6 @@ Use exit commands (bye, exit, quit) to end the chat and verify the conversation 
 
 Verify that chat logs persist by restarting the program with the same username.
 
-#screenshots
+>screenshots
 
 <img width="833" height="605" alt="image" src="https://github.com/user-attachments/assets/37e9aaf6-e5b6-4f07-8c50-00519a291051" />
